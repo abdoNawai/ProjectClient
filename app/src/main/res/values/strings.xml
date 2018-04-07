@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PIClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_text">text changes</string>
+    <string name="connect">Connect!</string>
+    <string name="title_controlpanel_list">Items</string>
+    <string name="title_controlpanel_detail">ControlPanel Detail</string>
+    <string name="title_activity_control_panel">ControlPanel</string>
+</resources>
